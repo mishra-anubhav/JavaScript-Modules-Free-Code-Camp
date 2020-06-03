@@ -1,5 +1,5 @@
 // The global variable
-var globalTitle = "Winter Is Coming";
+var globalTitle = "Winter Is Coming GoT";
 
 // Only change code below this line
 function urlSlug(title) {
