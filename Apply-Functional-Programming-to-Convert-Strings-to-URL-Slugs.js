@@ -1,4 +1,3 @@
-// The global variable
 var globalTitle = "Winter Is Coming GoT";
 
 // Only change code below this line
