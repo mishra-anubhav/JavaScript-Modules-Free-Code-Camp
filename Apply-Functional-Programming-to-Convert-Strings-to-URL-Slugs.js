@@ -10,3 +10,5 @@ function urlSlug(title) {
     .join("-")
     .toLowerCase();
 }
+
+
