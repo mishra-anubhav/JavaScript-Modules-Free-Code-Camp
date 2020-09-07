@@ -1,1 +1,1 @@
-# JavaScript-Modules-Free-Code-Camp
+# JavaScript Modules Free Code-Camp
